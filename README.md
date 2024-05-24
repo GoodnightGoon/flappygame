@@ -1,7 +1,6 @@
 # Flappy Bird Project
 Followed the Flappy Bird project on CodeDex. I've been crushing codewars and training classes so I let myself build something silly and fun just for the heck of it. 
 
-![alt tag](http://placecorgi.com/1200/650)
 
 <a href="https://ibb.co/XVYYscn"><img src="https://i.ibb.co/0QssMH0/Screenshot-2024-05-24-10-08-31-AM.png" alt="Screenshot-2024-05-24-10-08-31-AM" border="0"></a>
 
